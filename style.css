@@ -276,13 +276,13 @@ i.fa-bars {
   background-color: white;
 }
 #Landing .carousel-item:nth-child(1) .land-card {
-  background-image: url(/imgs/imgi_147_hero-Banner.png);
+  background-image: url(imgs/imgi_147_hero-Banner.png);
 }
 #Landing .carousel-item:nth-child(2) .land-card {
-  background-image: url(/imgs/imgi_154_hero-Banner-1.2.png);
+  background-image: url(imgs/imgi_154_hero-Banner-1.2.png);
 }
 #Landing .carousel-item:nth-child(3) .land-card {
-  background-image: url(/imgs/imgi_161_hero-Banner-1.3.png);
+  background-image: url(imgs/imgi_161_hero-Banner-1.3.png);
 }
 .carousel,
 .carousel-inner,
@@ -298,10 +298,10 @@ i.fa-bars {
   border-radius: 10px;
 }
 #Landing .col-lg-5 .land-card:nth-child(1) {
-   background-image: url(/imgs/imgi_171_hero-Banner-2.png);
+   background-image: url(imgs/imgi_171_hero-Banner-2.png);
 }
 #Landing .col-lg-5 .land-card:nth-child(2) {
-   background-image: url(/imgs/imgi_178_hero-Banner-3.png);
+   background-image: url(imgs/imgi_178_hero-Banner-3.png);
 }
 
 .land-card-content span{
@@ -343,13 +343,13 @@ i.fa-bars {
       height: 500px;
     }
   #Landing .carousel-item:nth-child(1) .land-card {
-  background-image: url(/imgs/imgi_149_hero-Banner-mb.png);
+  background-image: url(imgs/imgi_149_hero-Banner-mb.png);
 }
 #Landing .carousel-item:nth-child(2) .land-card {
-  background-image: url(/imgs/imgi_157_hero-Banner-m-2.png);
+  background-image: url(imgs/imgi_157_hero-Banner-m-2.png);
 }
 #Landing .carousel-item:nth-child(3) .land-card {
-  background-image: url(/imgs/imgi_167_hero-Banner-m-3.png);
+  background-image: url(imgs/imgi_167_hero-Banner-m-3.png);
 }
 }
 
@@ -436,7 +436,7 @@ i.fa-bars {
 /* Feature Products */
 
 .offer-box {
-  background-image: url(/imgs/imgi_408_Banner.png);
+  background-image: url(imgs/imgi_408_Banner.png);
   background-size: cover;
   height: 100%;
   color: #fff;
@@ -461,7 +461,7 @@ i.fa-bars {
 /* discont */
 
 .discont{
-  background-image: url(/imgs/imgi_1_sale-banner.png);
+  background-image: url(imgs/imgi_1_sale-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -507,7 +507,7 @@ i.fa-bars {
   transition: all 5s;
 }
 .card .card-img img:hover {
-  content: url(../imgs/pro07.avif);
+  content: url(imgs/pro07.avif);
 }
 .card .card-info {
   margin-top: 10px;
